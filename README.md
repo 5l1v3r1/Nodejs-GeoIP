@@ -4,7 +4,7 @@ Basic **GeoIP** coded on NodeJS for educational purposes.
 
 ## Prerequisites
 
-* [NODEJS](https://nodejs.org/)
+* [Node.js](https://nodejs.org/)
 
 ## Examples
 
