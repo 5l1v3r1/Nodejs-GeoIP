@@ -10,6 +10,13 @@ Basic **GeoIP** coded on NodeJS for educational purposes.
 
 ![screenshot](https://media.discordapp.net/attachments/750439917003341824/755821863401160834/unknown.png?width=429&height=219)
 
+## Install and Usage
+
+```bash
+npm install
+npm index.js
+```
+
 ## Used Package
 
 * [node-iplocate](https://www.npmjs.com/package/node-iplocate)
