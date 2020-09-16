@@ -14,7 +14,7 @@ Basic **GeoIP** coded on NodeJS for educational purposes.
 
 ```bash
 npm install
-npm index.js
+node index.js
 ```
 
 ## Used Package
