@@ -1,6 +1,6 @@
 # NodeJS GeoIP
 
-Basic **GeoIP** coded on NodeJS for educational purposes.
+Basic **GeoIP** coded in NodeJS for educational purposes.
 
 ## Prerequisites
 
